@@ -16,10 +16,6 @@ I'm an Advanced Mechatronics and Robotics engineer, passionate about Robotics, I
 
   [![Github Stats](https://github-readme-stats.vercel.app/api?username=WashingtonKK&show_icons=true&hide_border=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonKK&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Wakatime Stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WashingtonKK&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

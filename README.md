@@ -14,10 +14,11 @@ I'm an Advanced Mechatronics and Robotics engineer, passionate about Robotics, I
 
   ### ⚡ GitHub Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WashingtonKK)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=WashingtonKK&show_icons=true&hide_border=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyOina&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WashingtonKK&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wakatime Stats
 

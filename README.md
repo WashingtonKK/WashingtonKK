@@ -9,12 +9,10 @@ I'm an Advanced Mechatronics and Robotics engineer, passionate about Robotics, I
 - 🛠️ Tech stack: Go, Python, C/C++, MATLAB, ROS
 - 📫 How to reach me: washingtonkigan@gmail.com
 - 🔗 LinkedIn: [Washington](https://www.linkedin.com/in/WashingtonKK)
-  \
-  &nbsp;
 
-  ### ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=WashingtonKK&show_icons=true&hide_border=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=WashingtonKK&show_icons=true&hide_border=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Wakatime Stats
 

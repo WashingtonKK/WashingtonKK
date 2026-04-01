@@ -7,7 +7,6 @@ I'm an Advanced Mechatronics and Robotics engineer, passionate about Robotics, I
 - 👯 I'm looking to collaborate on Go, IoT, robotics and climate change projects
 - 💬 Ask me about Confidential Computing, IoT protocols, Robotics, Climate Change
 - 🛠️ Tech stack: Go, Python, C/C++, MATLAB, ROS, Typescript
-- 📫 How to reach me: washingtonkigan@gmail.com
 - 🔗 LinkedIn: [Washington](https://www.linkedin.com/in/WashingtonKK)
 
 ### ⚡ GitHub Stats
